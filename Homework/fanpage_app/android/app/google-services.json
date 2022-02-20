@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850155597486",
+    "project_id": "john-kush-fan-page",
+    "storage_bucket": "john-kush-fan-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850155597486:android:2ec79800c6e4243be0073f",
+        "android_client_info": {
+          "package_name": "JohnKushMMA.fanpage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850155597486-v2ileq0o9mif6e6jf1taj0uqbm3vcvkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZiAaL2PzCXION_-Y_aBXVda0daKzvsi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850155597486-v2ileq0o9mif6e6jf1taj0uqbm3vcvkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
